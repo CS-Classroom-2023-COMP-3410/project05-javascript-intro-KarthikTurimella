@@ -1,0 +1,16 @@
+#clock-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #clock {
+    font-size: 36px;
+    color: #000;
+    margin-bottom: 20px;
+  }
+  
+  button, input {
+    margin: 5px;
+  }
+  
